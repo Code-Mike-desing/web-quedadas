@@ -1,0 +1,14 @@
+gitignore
+Archivos del sistema
+.DS_Store
+Thumbs.db
+
+Node.js
+node_modules/
+.env
+
+Logs
+*.log
+
+VSCode config
+.vscode/
